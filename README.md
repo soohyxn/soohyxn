@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=soohyun%20&fontSize=90)
+[![Soohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=soohyxn)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center"><b>📚 Tech Stack 📚</b></h3>
 <h3 align="center">Techs that I've used at least once</h3>
@@ -13,7 +13,3 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a> &nbsp
-
-<br><br>
-[![Soohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=soohyxn)](https://github.com/anuraghazra/github-readme-stats)
-
